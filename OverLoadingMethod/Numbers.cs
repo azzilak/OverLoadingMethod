@@ -8,7 +8,7 @@ namespace OverLoadingMethod
 {
     public class Numbers
     {
-        public int FindMinimum (int number1, int number2)
+        public int FindMinimum (int number1, int number2) 
         {
             return Math.Min(number1, number2);
         }
